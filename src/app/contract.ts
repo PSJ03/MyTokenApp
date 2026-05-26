@@ -1,7 +1,7 @@
 import type { Abi } from 'viem'
 
 export const contractAddress =
-  '0x4Cffa2176c6189923135c52B89834ecB8933ec01' as const
+  '0x201546b5Fe6ae6314793FdCD019678Ca07D75440' as const
 export const contractABI = [
   {
     inputs: [
